@@ -150,18 +150,16 @@ const About = () => {
         </Box>
         <Box>
           <Title>
-            Welcome To The <br /> Weirdos Club.
+            Welcome To The <br /> Sadguru Groups and Freight Service Pvt.Ltd.
           </Title>
           <SubText>
-            The WEIRDOS CLUB is a private collection of NFTs—unique digital
-            collectibles. The Weirdos are stored as ERC-721 tokens on the
-            Ethereum blockchain and hosted on IPFS.
+            Sadguru Groups is specialized in moving your preciuos items from one
+            place to another. We Manage International Freight Forwarding from
+            country to country and domestic freight forwarding within a single
+            country
           </SubText>
           <SubTextLight>
-            With more than 200+ hand drawn traits, each NFT is unique and comes
-            with a membership to an exclusive group of successful investors.
-            Join an ambitious ever-growing community with multiple benefits and
-            utilities.
+            We are a multi modal Solution, this means we offer more than one service in many cases like Sea and Road
           </SubTextLight>
           <ButtonContainer>
             <ThemeProvider theme={dark}>

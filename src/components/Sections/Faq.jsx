@@ -89,30 +89,30 @@ const Faq = () => {
       <Container>
         <Box>
           <Accordian
-            title="WHERE CAN I VIEW MY NFTS?"
-            children="Once minted or bought simply connect to your OpenSea account to view your NFTs."
+            title="Business Network"
+            children="Our expertise is in the field of Exports for Agriculture products, Metal products, Pharmaceutical products, Wood, Fertilisers, Tiles, Granite, Stones, Sanitary Wares, Construction Materials,Machinery, Auto parts, De-Oiled Cake etc."
           />
           <Accordian
-            title="WHAT IS THE METAVERSE?"
-            children="A metaverse is a network of 3D virtual worlds focused on social connection. In futurism and science fiction, it is often described as a hypothetical iteration of the Internet as a single, universal virtual world that is facilitated by the use of virtual and augmented reality headsets."
+            title="Member Of Motion Logistics Network"
+            children="Through motion logistics network we are connected to a worldwide group of associates in china , europe north america and south east asia."
           />
           <Accordian
-            title="WHY DO WE NEED ROYALTIES?"
-            children="The amount of royalties was fixed at 5% to finance the Weirdos Club's projects. We have the ambition to organize multiple events around the world in order to strengthen the community and build a network of entrepreneurs and investors with the same mindset and common interests."
+            title="Multimodal Transport Operator ( Own B. L. ) Registered With Director General Of Shipping"
+            children="We are able to provide our own bl, help the customer with all sort smooth transaction associated with our own bl and also help them with our associates worldwide."
           />
         </Box>
         <Box>
           <Accordian
-            title="HOW CAN I USE MY NFT?"
-            children="You will be able to use your NFT as an avatar in the Metaverse and our future video game. Holding also means that you are part of an exclusive network of investors and entrepreneurs."
+            title="Various Other Industry Bodies"
+            children="We are networked and in continuous interaction with industry bodies like cii, fokia , various chamber of commerce, help our customers to generate preferential certificate of origins and other various certifications necessary for exports and imports."
           />
           <Accordian
-            title="WHAT ARE THE WEIRDOS?"
-            children="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore deserunt consequatur quisquam maxime molestias dolores ipsum, exercitationem vel sint quidem aliquam modi quis impedit corporis unde inventore fugiat provident in."
+            title="Full Container and LCL Movement"
+            children="On Account of the experienced team and learning from its associate partners, Sadguru Groups Pvt Ltd has acquired and unparalled Vocabulary of Logistics. Our in depth understanding of Port regulations and custom clearance places us a bar above the rest"
           />
           <Accordian
-            title="WHAT IS THE FUSION PROCESS?"
-            children="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim veritatis iusto officia. Exercitationem, ducimus reiciendis. Rem, maxime, similique neque minus aliquam dolore doloremque laboriosam, facilis quibusdam unde sint officia."
+            title="Suppy Chain Management"
+            children="Our Supply Chain Management is unlike any other company in the domain. We Cherish our client and hence maintain deep rooted professional and personal relationship with them."
           />
         </Box>
       </Container>

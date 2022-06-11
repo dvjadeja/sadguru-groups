@@ -174,7 +174,8 @@ const Footer = () => {
       </Container>
       <Bottom>
         <span>
-          &copy; {new Date().getFullYear()} Wierdos Club. All rights reserved.
+          &copy; {new Date().getFullYear()} Sadguru Groups Pvt Ltd. All rights
+          reserved.
         </span>
         <span>
           Made with &#10084; by{" "}

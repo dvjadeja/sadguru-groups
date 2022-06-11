@@ -227,28 +227,28 @@ const Roadmap = () => {
           <Item>&nbsp;</Item>
           <RoadMapItem
             addToRefs={addToRefs}
-            title="Grand Opening"
-            subText="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
+            title="Introduction"
+            subText="Sadguru Groups Pvt Ltd offers top notch Custom Clearance, Freight Forwarding, Warehousing & Transport Services to its customers worldwide. Logistics in itself follows a complicated framework which makes it difficult for anyone and everyone to survive in this industry. Sadguru Groups Pvt Ltd is not just anyone and definitely not as common as everyone. Its ideologies are independent, its practices are sophisticated and its quality is pure. Cargotrans Maritime Pvt Ltd combines its services with the customer requirements to custom design specific solutions for its clients."
           />
           <RoadMapItem
             addToRefs={addToRefs}
-            title="Great Benefits"
-            subText="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
+            title="Wide Business Network"
+            subText="Sadguru Groups Pvt Ltd has wide Business Network in all Major Ports of India. Having our Own Offices at Mundra & also we have strong Tie- up/Agents arrangements with MLO (Main Line Operator), NVOCC (Non-Vessel Operating Container Carrier& Agency Network at Indian Sub- Continents, Gulf, Upper Gulf, Far East, Australia, Red Sea, Mediterranean, European & African Sectors."
           />
           <RoadMapItem
             addToRefs={addToRefs}
-            title="Early Access"
-            subText="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
+            title="Highly Skilled & Qualified Staff"
+            subText="Management Expertise & Staff with more than two Decades of Experience in Shipping & Logistics Industry. With a Fantastic Team to Support and Deliver Efficiently. We are here to PARTNER YOU IN YOUR GROWTH. With a Team aligned to our Mission we shall deliver on our Promises. Promise to Serve you & Our Associations with more than 50 Personnel’s across the network."
           />
           <RoadMapItem
             addToRefs={addToRefs}
-            title="New Merch"
-            subText="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
+            title="Our Vision"
+            subText="Is To Promote Our Vision Statement, To Work In Collaboration With Our Shippers , Importers And All Channel Partners And Provide Them With Innovative , Safe And Cost Effective Logistic Solutions, Thereby Making Them Competitive In The Market Place."
           />
           <RoadMapItem
             addToRefs={addToRefs}
-            title="Holders Ranking"
-            subText="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
+            title="About us"
+            subText="World class custom clearing agent with own License, freight forwarding, Warehousing & transport service provider – Registered as MTO at Directorate General of Shipping (india)……."
           />
         </Items>
       </Container>

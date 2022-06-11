@@ -6,16 +6,26 @@ import "swiper/css/effect-cards";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
 import { Pagination, Navigation, Autoplay, EffectCards } from "swiper";
-import img1 from "../assets/Nfts/bighead.svg";
-import img2 from "../assets/Nfts/bighead-1.svg";
-import img3 from "../assets/Nfts/bighead-2.svg";
-import img4 from "../assets/Nfts/bighead-3.svg";
-import img5 from "../assets/Nfts/bighead-4.svg";
-import img6 from "../assets/Nfts/bighead-5.svg";
-import img7 from "../assets/Nfts/bighead-6.svg";
-import img8 from "../assets/Nfts/bighead-7.svg";
-import img9 from "../assets/Nfts/bighead-8.svg";
-import img10 from "../assets/Nfts/bighead-9.svg";
+// import img1 from "../assets/Nfts/bighead.svg";
+// import img2 from "../assets/Nfts/bighead-1.svg";
+// import img3 from "../assets/Nfts/bighead-2.svg";
+// import img4 from "../assets/Nfts/bighead-3.svg";
+// import img5 from "../assets/Nfts/bighead-4.svg";
+// import img6 from "../assets/Nfts/bighead-5.svg";
+// import img7 from "../assets/Nfts/bighead-6.svg";
+// import img8 from "../assets/Nfts/bighead-7.svg";
+// import img9 from "../assets/Nfts/bighead-8.svg";
+// import img10 from "../assets/Nfts/bighead-9.svg";
+import img1 from "../assets/images/custom.jpg";
+import img2 from "../assets/images/img1.jpg";
+import img3 from "../assets/images/containerShip1.jpg";
+import img4 from "../assets/images/containerWarehouse.jpg";
+import img5 from "../assets/images/freightForwarding.jpg";
+import img6 from "../assets/images/containerShip2.jpg";
+import img7 from "../assets/images/containerShip3.jpg";
+import img8 from "../assets/images/containerShip4.jpg";
+import img9 from "../assets/images/containerShip5.jpg";
+import img10 from "../assets/images/container.jpg";
 import Arrow from "../assets/Arrow.svg";
 
 const Container = styled.div`
@@ -51,14 +61,22 @@ const Container = styled.div`
     border-radius: 20px;
 
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 
     img {
+      margin-bottom: 5rem;
       display: block;
       width: 100%;
       height: auto;
       object-fit: cover;
+    }
+    
+    @media (max-width: 64em) {
+      img{
+        margin-bottom: 10px;
+      }
     }
   }
 
@@ -134,34 +152,42 @@ const Carousel = () => {
         <SwiperSlide>
           {" "}
           <img src={img1} alt="images" />
+          <span>Custom Clearence</span>
         </SwiperSlide>
         <SwiperSlide>
           {" "}
           <img src={img2} alt="images" />
+          <span>Transportation</span>
         </SwiperSlide>
         <SwiperSlide>
           {" "}
           <img src={img3} alt="images" />
+          <span>Freight Forwardig</span>
         </SwiperSlide>
         <SwiperSlide>
           {" "}
           <img src={img4} alt="images" />
+          <span>Warehousing</span>
         </SwiperSlide>
         <SwiperSlide>
           {" "}
           <img src={img5} alt="images" />
+          <span>Container LCL Movement</span>
         </SwiperSlide>
         <SwiperSlide>
           {" "}
           <img src={img6} alt="images" />
+          <span>Project Cargo</span>
         </SwiperSlide>
         <SwiperSlide>
           {" "}
           <img src={img7} alt="images" />
+          <span>Vessel Chater</span>
         </SwiperSlide>
         <SwiperSlide>
           {" "}
           <img src={img8} alt="images" />
+          <span>Providing Cretificates</span>
         </SwiperSlide>
         <SwiperSlide>
           {" "}

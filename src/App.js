@@ -14,18 +14,20 @@ import ScrollToTop from "./components/ScrollToTop";
 function App() {
   return (
     <>
-      <GlobalStyles />
-      <ThemeProvider theme={light}>
-        <Navigation />
-        <Home />
-        <About />
-        <Roadmap />
-        <Showcase />
-        <Team />
-        <Faq />
-        <Footer />
-        <ScrollToTop />
-      </ThemeProvider>
+      <main style={{ overflowX: "hidden" }}>
+        <GlobalStyles />
+        <ThemeProvider theme={light}>
+          <Navigation />
+          <Home />
+          <About />
+          <Roadmap />
+          <Showcase />
+          <Team />
+          <Faq />
+          <Footer />
+          <ScrollToTop />
+        </ThemeProvider>
+      </main>
     </>
   );
 }

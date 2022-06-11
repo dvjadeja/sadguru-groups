@@ -54,12 +54,12 @@ const Faq = () => {
     });
 
     return () => {
-      ScrollTrigger.kill();
+      // ScrollTrigger.kill()
     };
   }, []);
 
   return (
-    <Section ref={ref}>
+    <Section ref={ref} id="faq">
       <Title>Faq</Title>
       <Container>
         <Box>

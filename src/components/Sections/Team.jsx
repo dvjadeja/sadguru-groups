@@ -73,7 +73,7 @@ const Item = styled.div`
     }
   }
 
-  @media (max-width: 64em) {
+  @media (max-width: 30em) {
     width: 70vw;
   }
 `;

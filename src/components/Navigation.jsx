@@ -164,18 +164,12 @@ const Navigation = () => {
           <MenuItem onClick={() => scrollTo("faq")}>Faq</MenuItem>
           <MenuItem>
             <div className="mobile">
-              <Button
-                text="Whatsapp"
-                link="https://api.whatsapp.com/send/?phone=919978125124&text&app_absent=0"
-              />
+              <Button />
             </div>
           </MenuItem>
         </Menu>
         <div className="desktop">
-          <Button
-            text="Whatsapp"
-            link="https://api.whatsapp.com/send/?phone=919978125124&text&app_absent=0"
-          />
+          <Button />
         </div>
       </NavBar>
     </Section>

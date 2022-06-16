@@ -148,7 +148,16 @@ const Banner = () => {
         Join the <br /> Sadguru Shipping Services Pvt Ltd
       </Title>
       <BntContainer>
-        <JoinNow>Join Now</JoinNow>
+        <JoinNow>
+          <a
+            href="https://api.whatsapp.com/send/?phone=919978125124&text&app_absent=0"
+            aria-label="Whatsapp"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            Whatsapp
+          </a>
+        </JoinNow>
       </BntContainer>
     </Section>
   );

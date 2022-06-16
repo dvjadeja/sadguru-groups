@@ -38,11 +38,29 @@ const Btn = styled.button`
   }
 `;
 
-const Button = ({ text, link }) => {
+const Button = ({
+  text = "Whatsapp",
+  link = "https://api.whatsapp.com/send/?phone=919978125124&text&app_absent=0",
+}) => {
   return (
-    <Btn>
-      <a href={link} aria-label={text} target="_blank" rel="noreferrer">
-        {text}
+    <Btn
+      formTarget="_blank"
+      onClick={() => {
+        // window.location.href =
+        //   "https://api.whatsapp.com/send/?phone=919978125124&text&app_absent=0";
+        window.open(
+          "https://api.whatsapp.com/send/?phone=919978125124&text&app_absent=0",
+          "_blank"
+        );
+      }}
+    >
+      <a
+        href="https://api.whatsapp.com/send/?phone=919978125124&text&app_absent=0"
+        aria-label={text}
+        target="_blank"
+        rel="noreferrer noopener"
+      >
+        Whatsapp
       </a>
     </Btn>
   );

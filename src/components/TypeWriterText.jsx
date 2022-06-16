@@ -107,7 +107,10 @@ const TypeWriterText = () => {
       </Title>
       <SubTitle>We make Global Trade Happen.</SubTitle>
       <ButtonContainer>
-        <Button text="Explore" link="#about" />
+        <Button
+          text="Whatsapp"
+          link="https://api.whatsapp.com/send/?phone=919978125124&text&app_absent=0"
+        />
       </ButtonContainer>
     </>
   );

@@ -108,7 +108,7 @@ const Faq = () => {
           />
           <Accordian
             title="Full Container and LCL Movement"
-            children="On Account of the experienced team and learning from its associate partners, Sadguru Groups Pvt Ltd has acquired and unparalled Vocabulary of Logistics. Our in depth understanding of Port regulations and custom clearance places us a bar above the rest"
+            children="On Account of the experienced team and learning from its associate partners, Sadguru Shipping Services Pvt Ltd has acquired and unparalled Vocabulary of Logistics. Our in depth understanding of Port regulations and custom clearance places us a bar above the rest"
           />
           <Accordian
             title="Suppy Chain Management"

@@ -228,12 +228,12 @@ const Roadmap = () => {
           <RoadMapItem
             addToRefs={addToRefs}
             title="Introduction"
-            subText="Sadguru Groups Pvt Ltd offers top notch Custom Clearance, Freight Forwarding, Warehousing & Transport Services to its customers worldwide. Logistics in itself follows a complicated framework which makes it difficult for anyone and everyone to survive in this industry. Sadguru Groups Pvt Ltd is not just anyone and definitely not as common as everyone. Its ideologies are independent, its practices are sophisticated and its quality is pure. Cargotrans Maritime Pvt Ltd combines its services with the customer requirements to custom design specific solutions for its clients."
+            subText="Sadguru Shipping Services Pvt Ltd offers top notch Custom Clearance, Freight Forwarding, Warehousing & Transport Services to its customers worldwide. Logistics in itself follows a complicated framework which makes it difficult for anyone and everyone to survive in this industry. Sadguru Shipping Services Pvt Ltd is not just anyone and definitely not as common as everyone. Its ideologies are independent, its practices are sophisticated and its quality is pure. Cargotrans Maritime Pvt Ltd combines its services with the customer requirements to custom design specific solutions for its clients."
           />
           <RoadMapItem
             addToRefs={addToRefs}
             title="Wide Business Network"
-            subText="Sadguru Groups Pvt Ltd has wide Business Network in all Major Ports of India. Having our Own Offices at Mundra & also we have strong Tie- up/Agents arrangements with MLO (Main Line Operator), NVOCC (Non-Vessel Operating Container Carrier& Agency Network at Indian Sub- Continents, Gulf, Upper Gulf, Far East, Australia, Red Sea, Mediterranean, European & African Sectors."
+            subText="Sadguru Shipping Services Pvt Ltd has wide Business Network in all Major Ports of India. Having our Own Offices at Mundra & also we have strong Tie- up/Agents arrangements with MLO (Main Line Operator), NVOCC (Non-Vessel Operating Container Carrier& Agency Network at Indian Sub- Continents, Gulf, Upper Gulf, Far East, Australia, Red Sea, Mediterranean, European & African Sectors."
           />
           <RoadMapItem
             addToRefs={addToRefs}

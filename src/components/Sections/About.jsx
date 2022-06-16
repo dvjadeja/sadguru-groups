@@ -150,10 +150,10 @@ const About = () => {
         </Box>
         <Box>
           <Title>
-            Welcome To The <br /> Sadguru Groups and Freight Service Pvt.Ltd.
+            Welcome To The <br /> Sadguru Shipping Services Pvt.Ltd.
           </Title>
           <SubText>
-            Sadguru Groups is specialized in moving your preciuos items from one
+            Sadguru Shipping is specialized in moving your preciuos items from one
             place to another. We Manage International Freight Forwarding from
             country to country and domestic freight forwarding within a single
             country

@@ -174,7 +174,7 @@ const Footer = () => {
       </Container>
       <Bottom>
         <span>
-          &copy; {new Date().getFullYear()} Sadguru Groups Pvt Ltd. All rights
+          &copy; {new Date().getFullYear()} Sadguru Shipping Services Pvt Ltd. All rights
           reserved.
         </span>
         <span>
